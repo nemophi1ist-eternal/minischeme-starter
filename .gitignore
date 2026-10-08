@@ -1,1 +1,7 @@
 __pycache__/
+*.pyc
+
+# 自测脚本产生的输出（可随时重新生成）
+tests/actual.txt
+tests/err.txt
+tests/cli_report.txt
